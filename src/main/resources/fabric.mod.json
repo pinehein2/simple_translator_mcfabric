@@ -18,6 +18,9 @@
 		"main": [
 			"tmcm.simpletranslator.SimpleTranslator"
 		],
+		"client": [
+			"tmcm.simpletranslator.SimpleTranslatorClient"
+		],
 		"fabric-datagen": [
 			"tmcm.simpletranslator.SimpleTranslatorDataGenerator"
 		]
